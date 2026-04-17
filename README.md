@@ -100,8 +100,10 @@ python evaluate.py \
 This will automatically load the latest checkpoint as per your exp_name, variant_name, algo, and stage. Else you can specify the checkpoint_path to load a specific checkpoint.
 
 ## Video
-[Libero-long]https://github.com/user-attachments/assets/b19c58eb-47e2-460e-acc2-29837d095a85
 
+Put both the alphabet soup and the tomato sauce in the basket | caption2
+:-: | :-:
+<video src='https://github.com/user-attachments/assets/38517f8a-a4a8-476b-9c11-0d2b4b4877db' width=180/> | <video src='video2.mp4' width=180/>
 
 
 <video src='https://github.com/user-attachments/assets/b19c58eb-47e2-460e-acc2-29837d095a85' width=180/>
