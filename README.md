@@ -69,6 +69,10 @@ Run the following command to finetune hiqst on a downstream tasks. (ref: [finetu
 python train.py --config-name=train_fewshot.yaml \
     task=libero_long_fewshot \
     algo=hiqst \
+
+https://github.com/user-attachments/assets/aa10a53d-f527-4773-8bc9-e7f11aabb8ce
+
+
     exp_name=final \
     variant_name=block_32_ds_4 \
     algo.skill_block_size=32 \
@@ -96,12 +100,9 @@ python evaluate.py \
 This will automatically load the latest checkpoint as per your exp_name, variant_name, algo, and stage. Else you can specify the checkpoint_path to load a specific checkpoint.
 
 ## Video
-Libero-long
-https://github.com/user-attachments/assets/376accc9-2be5-46b8-b5b4-8585c81676e6
-<video width="640" height="480" controls>
-  <source src="https://github.com/user-attachments/assets/376accc9-2be5-46b8-b5b4-8585c81676e6.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Libero-long]https://github.com/user-attachments/assets/b19c58eb-47e2-460e-acc2-29837d095a85
+
+
 
 
 
