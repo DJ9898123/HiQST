@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/6464398a-c652-4885-91c9-013409a57b05
-
 # HiQST: A Unified Hierarchical Quantized Skill Framework for Multitask and Few-Shot Robotic Manipulation
 
 [**Installation**](#installation) | [**Dataset Download**](#dataset-download) | [**Training**](#training) | [**Evaluation**](#evaluating) | 
