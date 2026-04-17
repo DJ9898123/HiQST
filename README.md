@@ -98,7 +98,7 @@ This will automatically load the latest checkpoint as per your exp_name, variant
 ## Video
 Libero-long
 ```
-[![Watch the video](https://https://github.com/DJ9898123/HiQST/blob/main/HiQST/0.mp4)]
+https://github.com/DJ9898123/video/blob/main/0.mp4
 
 
 ```
