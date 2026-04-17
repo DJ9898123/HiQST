@@ -97,7 +97,8 @@ This will automatically load the latest checkpoint as per your exp_name, variant
 
 ## Video
 Libero-long
+https://github.com/user-attachments/assets/376accc9-2be5-46b8-b5b4-8585c81676e6
 
-https://github.com/DJ9898123/video/blob/main/0.mp4
+
 
 
