@@ -104,6 +104,10 @@ This will automatically load the latest checkpoint as per your exp_name, variant
 
 
 
+<video src='https://github.com/user-attachments/assets/b19c58eb-47e2-460e-acc2-29837d095a85' width=180/>
+
+
+
 
 
 
