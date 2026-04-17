@@ -99,7 +99,7 @@ This will automatically load the latest checkpoint as per your exp_name, variant
 Libero-long
 https://github.com/user-attachments/assets/376accc9-2be5-46b8-b5b4-8585c81676e6
 <video width="640" height="480" controls>
-  <source src="https://github.com/user-attachments/assets/376accc9-2be5-46b8-b5b4-8585c81676e6" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/376accc9-2be5-46b8-b5b4-8585c81676e6.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
