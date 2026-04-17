@@ -99,7 +99,7 @@ This will automatically load the latest checkpoint as per your exp_name, variant
 Libero-long
 ```
 <video width="640" height="480" controls>
-  <source src="https://raw.githubusercontent.com/DJ9898123/HiQST/main/HiQST/0.mp4" type="video/mp4">
+  <source src="https://github.com/DJ9898123/HiQST/blob/main/HiQST/0.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
