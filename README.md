@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/6464398a-c652-4885-91c9-013409a57b05
+
 # HiQST: A Unified Hierarchical Quantized Skill Framework for Multitask and Few-Shot Robotic Manipulation
 
 [**Installation**](#installation) | [**Dataset Download**](#dataset-download) | [**Training**](#training) | [**Evaluation**](#evaluating) | 
@@ -69,10 +73,6 @@ Run the following command to finetune hiqst on a downstream tasks. (ref: [finetu
 python train.py --config-name=train_fewshot.yaml \
     task=libero_long_fewshot \
     algo=hiqst \
-
-https://github.com/user-attachments/assets/aa10a53d-f527-4773-8bc9-e7f11aabb8ce
-
-
     exp_name=final \
     variant_name=block_32_ds_4 \
     algo.skill_block_size=32 \
@@ -103,10 +103,12 @@ This will automatically load the latest checkpoint as per your exp_name, variant
 
 Put both the alphabet soup and the tomato sauce in the basket | Put both the cream cheese box and the butter in the basket
 :-: | :-:
-<video src='https://github.com/user-attachments/assets/38517f8a-a4a8-476b-9c11-0d2b4b4877db' width=180/> | <video src='video2.mp4' width=180/>
+<video src='https://github.com/user-attachments/assets/38517f8a-a4a8-476b-9c11-0d2b4b4877db' width=180/> | <video src='[video2.mp4](https://github.com/user-attachments/assets/73373dcd-079c-461f-83e8-3ea07d5c2591)' width=180/>
 
 
-<video src='https://github.com/user-attachments/assets/b19c58eb-47e2-460e-acc2-29837d095a85' width=180/>
+
+
+
 
 
 
