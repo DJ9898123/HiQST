@@ -101,7 +101,7 @@ This will automatically load the latest checkpoint as per your exp_name, variant
 
 ## Video
 
-Put both the alphabet soup and the tomato sauce in the basket | caption2
+Put both the alphabet soup and the tomato sauce in the basket | Put both the cream cheese box and the butter in the basket
 :-: | :-:
 <video src='https://github.com/user-attachments/assets/38517f8a-a4a8-476b-9c11-0d2b4b4877db' width=180/> | <video src='video2.mp4' width=180/>
 
