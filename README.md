@@ -100,10 +100,10 @@ python evaluate.py \
 This will automatically load the latest checkpoint as per your exp_name, variant_name, algo, and stage. Else you can specify the checkpoint_path to load a specific checkpoint.
 
 ## Video
-
+Libero-Long
 Put both the alphabet soup and the tomato sauce in the basket | Put both the cream cheese box and the butter in the basket
 :-: | :-:
-<video src='https://github.com/user-attachments/assets/38517f8a-a4a8-476b-9c11-0d2b4b4877db' width=180/> | <video src='[video2.mp4](https://github.com/user-attachments/assets/73373dcd-079c-461f-83e8-3ea07d5c2591)' width=180/>
+<video src='https://github.com/user-attachments/assets/38517f8a-a4a8-476b-9c11-0d2b4b4877db' width=180/> | <video src='https://github.com/user-attachments/assets/73373dcd-079c-461f-83e8-3ea07d5c2591' width=180/>
 
 
 
