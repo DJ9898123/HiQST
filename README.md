@@ -106,6 +106,12 @@ Shelf Place | Door Close
 :-: | :-:
 <video src='https://github.com/user-attachments/assets/97e4f31c-2645-4e93-84e3-5f15a7f0c0a6' width=180/> | <video src='https://github.com/user-attachments/assets/8f09b1de-b348-4d1c-84d3-b9a48ddf29d5' width=180/>
 
+Real-World
+Pick up the yellow Can and put it in the top drawer | Pick up the green can and place it in the basket 
+:-: | :-:
+<video src='https://github.com/user-attachments/assets/cc6d02f0-2c05-4b16-a569-afc273178cb4' width=180/> | <video src='https://github.com/user-attachments/assets/bafe6c85-683e-4a80-b55a-da9cacc6bda0' width=180/>
+
+
 
 
 
