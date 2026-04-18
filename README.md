@@ -110,22 +110,3 @@ Real-World
 Pick up the yellow Can and put it in the top drawer | Pick up the green can and place it in the basket 
 :-: | :-:
 <video src='https://github.com/user-attachments/assets/70f7d5f7-b6e4-496c-923d-302f930aee3d' width=180/> | <video src='https://github.com/user-attachments/assets/b8beaeb1-3ea6-4bf4-a769-f9ca59dc3eba' width=180/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
